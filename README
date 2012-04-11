@@ -1,0 +1,9 @@
+irc-office-adventure-plugin
+=====
+
+text adventure impl based on the lisperati.com example:
+http://www.lisperati.com/clojure-spels/code.html
+
+this enables the "adventure" to happen inside an irc chat using the clojure s-expression irc bot.
+https://github.com/boredomist/sexpbot
+
